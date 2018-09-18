@@ -1,0 +1,9 @@
+{
+  "Name": "C#",
+  "Language": "C-Sharp",
+  "FileExtension": "cs",
+  "ExcluededFileNames": [
+    "AssemblyInfo",
+    "TemporaryGeneratedFile"
+  ]
+}
